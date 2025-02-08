@@ -1,4 +1,4 @@
-# 3D Portfolio Website
+# 3D Portfolio Website- Jared Esteban
 
 A personal portfolio website made using React, Three.js, and Blender.
 
