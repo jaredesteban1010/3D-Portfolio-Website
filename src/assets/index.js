@@ -49,7 +49,7 @@ import neon_fables from "./neon-fables.png";
 import tictactoe from "./tic-tac-toe.png";
 import rivo from "./rivo.jpg";
 import nike from "./nike.jpg";
-import Amazon from "./Amazon.jpg";
+import Amazon from "./amazon.jpg";
 
 //my photo
 import JaredEsteban from "./JaredEsteban.png";
