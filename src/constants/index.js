@@ -31,9 +31,11 @@ import {
   pr,
   bootstrap,
   masterpizza,
-  bugs,
   neon_fables,
-  tictactoe
+  tictactoe,
+  rivo,
+  nike,
+  Amazon,
 } from "../assets";
 
 export const navLinks = [
@@ -171,6 +173,7 @@ const technologies = [
 ];
 
 const experiences = [
+  
   {
     title: "Senior Software Engineer",
     company_name: "Niumedia",
@@ -201,6 +204,78 @@ const experiences = [
 ];
 
 const projects = [
+  {
+    name: "Rivo Website",
+    description:
+      "Rivo is an ecommerce site that I developed using a modern tech stack of Next.js, React.js, TypeScript, Tailwind CSS, Shadcn UI, and Sanity Headless CMS.",
+    tags: [
+      {
+        name: "NextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+
+      {
+        name: "TypeScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Shadcn UI",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: rivo,
+    source_code_link: "https://github.com/jaredesteban1010/Rivo-Website.git",
+    live_project_link: "https://rivo-e-commerce.vercel.app/",
+  },
+  {
+    name: "Nike E-commerce Website Landing Page",
+    description:
+      "Nike E-commerce Website developed using Next.js.",
+    tags: [
+      {
+        name: "NextJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+
+      {
+        name: "TypeScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: nike,
+    source_code_link: "https://github.com/jaredesteban1010/Nike-Ecommerce-Website.git",
+    live_project_link: "https://nike-project-rouge.vercel.app/",
+  },
+  {
+    name: "Amazon Clone Landing Page",
+    description:
+      "The Amazon Clone Landing Page project is a simplified replica of the Amazon e-commerce website's landing page",
+    tags: [
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Amazon,
+    source_code_link: "https://github.com/jaredesteban1010/Amazon-Website.git",
+    live_project_link: "https://magnificent-bavarois-e56980.netlify.app/",
+  },
   {
     name: "Sticky Tanks",
     description:
@@ -308,7 +383,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/jaredesteban1010/3D-Portfolio-Website.git",
-    live_project_link: "",
+    live_project_link: "https://jaredesteban-portfolio-three.vercel.app/",
   },
 ];
 

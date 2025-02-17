@@ -47,6 +47,9 @@ import masterpizza from "./masterpizza.png";
 import bugs from "./bugs.png";
 import neon_fables from "./neon-fables.png";
 import tictactoe from "./tic-tac-toe.png";
+import rivo from "./rivo.jpg";
+import nike from "./nike.jpg";
+import Amazon from "./Amazon.jpg";
 
 //my photo
 import JaredEsteban from "./JaredEsteban.png";
@@ -95,5 +98,8 @@ export {
   bugs,
   neon_fables,
   avatar,
-  tictactoe
+  tictactoe,
+  rivo,
+  nike, 
+  Amazon, 
 };
