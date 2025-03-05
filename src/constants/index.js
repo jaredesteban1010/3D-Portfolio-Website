@@ -383,7 +383,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/jaredesteban1010/3D-Portfolio-Website.git",
-    live_project_link: "https://jaredesteban-portfolio-three.vercel.app/",
+    live_project_link: "https://3-d-portfolio-website-jared-esteban-cruz-perezs-projects.vercel.app/",
   },
 ];
 
